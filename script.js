@@ -79,7 +79,7 @@ setInterval(() => {
         elem.style.top=513+"px";
         setTimeout(() => {
             alert("moonji !! Your Score is: "+score);
-            sound();
+            
             return;
            
         }
